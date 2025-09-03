@@ -1,0 +1,20 @@
+.es-una-clase {
+    background-color: #ffcccc;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+    }
+
+#id-dos {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+
+}
+
+.es-una-clase#id-tres {
+font-size: 24px;
+}
+
+#id-cuatro {
+    background-color: hsl(120, 60%, 80%);
+    font-size: 24px;
+    font-weight: bold;
+}
