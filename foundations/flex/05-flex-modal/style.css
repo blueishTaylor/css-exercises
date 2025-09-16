@@ -83,16 +83,3 @@ button.cancel {
   margin-bottom: 16px;
 
 }
-.container {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
-.continue, .cancel {
-  margin-top: 8px;
-}
-
-.continue {
-  margin-right: 8px;
-}
